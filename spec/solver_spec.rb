@@ -1,7 +1,6 @@
 require_relative '../solver'
 
 describe Solver do
-
   before :each do
     @solver = Solver.new
   end
@@ -14,7 +13,7 @@ describe Solver do
       expect(@solver.factorial(0)).to eq 1
     end
     it 'raises an error if a negative number is passed to a factorial' do
-      expect {@solver.factorial(-5)}.to raise_error(ArgumentError, 'number must not be negative')
+      expect { @solver.factorial(-5) }.to raise_error(ArgumentError, 'number must not be negative')
     end
   end
 

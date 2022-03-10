@@ -1,20 +1,31 @@
-# MORSE DECODER
+# TDD project
 
-> this project is built to keep track of the books, members, and rentals at a library
+<h2>Learning objectives</h2>
+
+    * Write unit tests using Rspec.
+    * Understand an existing codebase in a way that allows for adding tests.
+    * Write Rspec unit tests with mocks.
+    * Understand the TDD concept.
+
 
 
 ## Getting Started
 
-You need to have Ruby in you operating system to run the irb terminal.
-> if you don't have Ruby installed in your machine, you can follow [this link](https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/articles/ruby_installation_instructions.md
-) to find instructions for all operating systems.
+* To clone the project onto your local machine, navigate to the folder where you want to save the file. Then, run:
+> `git clone https://github.com/disc3110/TDD-project.git`<br> `cd TDD-project`
+>
 
-* To open the `irb` and play around with the code just type `irb` in your terminal.
-
-* In order to see the solution, you can run run the command ruby filename.rb in your terminal
+* In order to run the tests, run `gem install rspec` in your terminal to install Rspec, then run `rspec` to run the tests.
 
 
 ## Authors
+<br>
+
+🧑‍💻 **Diego**
+
+- GitHub: [@disc3110](https://github.com/disc3110)
+- LinkedIn: [@diego-solis-277651184](https://www.linkedin.com/in/diego-solis-277651184/)
+<br>
 
 👤 **Anja**
 
@@ -22,6 +33,7 @@ You need to have Ruby in you operating system to run the irb terminal.
 - Twitter: [@Anja_Schmidt7](https://twitter.com/Anja_Schmidt7)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/anja-schmidt7/)
 
+<br>
 
 ## 🤝 Contributing
 
