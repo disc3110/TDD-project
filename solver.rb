@@ -11,6 +11,10 @@ class Solver
     p(result)
     result
   end
+
+  def reverse(string)
+    string.reverse
+  end
 end
 
 solver = Solver.new
